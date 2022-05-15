@@ -1,11 +1,11 @@
 exports.iklan1 = () => {
-  return `[ TEMPEL DISINI ]`
+  return `[ OPEN SEWA BOTZ ]`
 };
 
 exports.iklan2 = () => {
-  return `[ DISINI ]`
+  return `[ OPEN DM FREE FIRE ]`
 };
 
 exports.iklan3 = () => {
-  return `[ DISINI ]`
+  return `[ OPEN JPM ]`
 };
